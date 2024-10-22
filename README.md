@@ -13,8 +13,8 @@ It helps users manage their daily tasks efficiently by leveraging Crew AI. The t
 - ## Agents
 The task manager uses the following agents, defined in agent.py:
 
-**Task Scheduler Agent**
-**Task Reminder Agent**
-**Break Reminder Agent**
-**Time Optimizer Agent**
-**Task Notification Agent**
+- **Task Scheduler Agent** 
+- **Task Reminder Agent**
+- **Break Reminder Agent**
+- **Time Optimizer Agent**
+- **Task Notification Agent**
